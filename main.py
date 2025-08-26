@@ -1,3 +1,5 @@
+# Author: CCT (FutureImages.tw)
+
 import sys
 
 # 第三方套件
